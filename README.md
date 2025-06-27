@@ -1,2 +1,1 @@
-# antwithabindle
-28 dollar bit.
+![Ant With a Bindle](/images/antwithabindle.jpg)
